@@ -7,7 +7,7 @@
 - [Description](#Description)
 - [Environment](#Environment)
 - [Requirements](#Requirements)
-- [Repo Contents](#FileContents)
+- [Repo Contents](#Repo Contents)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Acknowledgements](#Acknowledgements)
@@ -71,7 +71,7 @@ $ git clone https://github.com/------/AirBnB_clone.git
 ###### Example No.1
 
 ```
-➜  AirBnB_clone git:(feature) ✗ ./console.py
+░▒▓    ~/ALX/AirBnB_clone  ./console.py
 (hbnb) create User
 0997878d-87ac-4327-b80d-b88e015aca22
 (hbnb) show User 0997878d-87ac-4327-b80d-b88e015aca22
